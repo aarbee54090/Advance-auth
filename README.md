@@ -5,7 +5,3 @@ create .env file and confiure your detail
 after all setup run the backend:
 npm run dev
 
-#new console
-install nedded depensies: 
-npm i
-npm run dev
